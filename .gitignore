@@ -1,0 +1,7 @@
+old
+new_venv
+tp4-fichiers.tgz
+Enonce.pdf
+*.ipynb
+!bpr-vec-ans-co.ipynb
+data
