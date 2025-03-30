@@ -5,3 +5,4 @@ Enonce.pdf
 *.ipynb
 !bpr-vec-ans-co.ipynb
 data
+.DS_Store
